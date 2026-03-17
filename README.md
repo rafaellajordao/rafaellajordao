@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafaella+Jordão;I+am+from+Brazil;I+graduated+Systems+Development;Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaellajordao&show_icons=true&count_private=true&hide_border=true&title_color=ADD8E6&icon_color=ADD8E6&text_color=c9d1d9&bg_color=0d1117" alt="Rafaella Jordão github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellajordao&layout=compact&hide_border=true&title_color=ADD8E6&text_color=c9d1d9&bg_color=0d1117" />
